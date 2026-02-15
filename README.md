@@ -3,6 +3,12 @@
 - Team Members: Likitha , MD Lathif , Sruthika , Navadeep , Hari Priya , SK Sameer
 
 ---
+## 📖 Overview
+
+This project generates synthetic handwritten signatures using a Vanilla GAN to overcome data scarcity in signature verification systems.
+The system learns the distribution of real signatures and produces realistic artificial signatures for augmentation.
+
+---
 
 ##  Project Objectives
 
@@ -11,6 +17,16 @@
 - Augment genuine datasets without manual collection  
 - Improve robustness of signature verification systems  
 - Provide a reusable GAN-based augmentation framework  
+
+---
+##  Training Workflow
+
+1. Load genuine signature dataset  
+2. Preprocess images (resize, normalize)  
+3. Initialize Generator and Discriminator  
+4. Train GAN using adversarial learning  
+5. Generate synthetic signature samples  
+6. Save trained generator model  
 
 ---
 
@@ -57,18 +73,6 @@ Handwritten-Signature-GAN/
 
 ---
 
-##  Training Workflow
-
-1. Load genuine signature dataset  
-2. Preprocess images (resize, normalize)  
-3. Initialize Generator and Discriminator  
-4. Train GAN using adversarial learning  
-5. Generate synthetic signature samples  
-6. Save trained generator model  
-
----
-
----
 
 #  Module-Wise Description
 
