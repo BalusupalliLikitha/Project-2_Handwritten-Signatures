@@ -1,6 +1,6 @@
 #  Handwritten Signature Generation using Vanilla GAN
 ## Group-1 Project Team
-- Team Members: Likitha , MD Lathif , Sruthika , Navadeep , Hari Priya , SK Sameer
+- Team Members:  Likitha , MD Lathif , Sruthika , Navadeep , Hari Priya , SK Sameer
 
 ---
 ##  Overview
