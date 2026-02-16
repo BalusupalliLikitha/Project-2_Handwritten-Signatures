@@ -3,7 +3,7 @@
 - Team Members: Likitha , MD Lathif , Sruthika , Navadeep , Hari Priya , SK Sameer
 
 ---
-## 📖 Overview
+##  Overview
 
 This project generates synthetic handwritten signatures using a Vanilla GAN to overcome data scarcity in signature verification systems.
 The system learns the distribution of real signatures and produces realistic artificial signatures for augmentation.
